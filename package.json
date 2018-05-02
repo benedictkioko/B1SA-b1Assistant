@@ -1,0 +1,15 @@
+{
+  "name": "b1assistant",
+  "description": "Standalone B1Assistant Alexa App",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.85.0"
+  },
+  "engines": {
+    "node": "^6.11.0"
+  }
+}
